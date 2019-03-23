@@ -27,7 +27,7 @@ performed until there is a win, a loss or a tie.
 ### Writing the Program - Names and Communication
   While the steps of the program are an imporant part of the process, naming every variable and function so that it is easy to read and 
 understand can be a very difficult process. The goal of writing a program is to make it work, but the goal of writing a good program is 
-to make the code easy to understand without comments. The best example of this is in the Model.Java file which says 
+to make the code easy to understand without comments. The best example of this is in the "Model.Java" file which says 
 "gameWindow.OpenWindow();" without any comment, this piece of the program is easy to understand. Having easy to interpret code means 
 this program can be visited or revisted at any time by anyone so that they can edit and alter the code without having to poke and prod 
 at it to determine what each part of the program does.
