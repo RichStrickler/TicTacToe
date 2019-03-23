@@ -17,7 +17,7 @@ https://github.com/RichStrickler/TicTacToe/releases
 
   Make sure to download either the JRE or JDK and then download the latest release of TicTacToe. If you are planning to edit the code 
 download the Source Code zip file from the release, if not just download the "TicTacToe.Jar" file. Next, with the newly downloaded 
-files, follow the next steps.
+files, follow the next steps:
   
 1. Depending on your installation, run or unzip the JRE or JDK files you downloaded.
 
