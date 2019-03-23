@@ -2,10 +2,20 @@
 
 ### Introduction and Setup
   This is a recreation of the classic game, TicTacToe, written in Java. Since this program is written in Java you will need the latest 
-version of Java SE Runtime Environment (JRE). if you wish to expand beyond just running the program and into editing it, you will need the 
-Java Development Kit. The Java Development Kit (JDK) is not a physical kit but just another installation of Java intended for developers. 
-After installing either the JRE or JDK, simply download the TicTacToe.Jar file. After the file has downloaded double click it to start the 
-program.
+version of Java SE Runtime Environment 8 (JRE). if you wish to expand beyond just running the program and into editing it, you will need 
+the Java Development Kit. The Java Development Kit 8 (JDK) is not a physical kit but just another installation of Java intended for 
+developers. 
+
+#### Latest Version of JRE 8
+https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+#### Latest Version of JDK 8
+https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+#### Latest Release of TicTacToe
+https://github.com/RichStrickler/TicTacToe/releases
+
+  Make sure to download either the JRE or JDK and then download the latest release of TicTacToe. Now with the newly downloaded jar file, double click the file and the game should run.
 
 ### Writing the Program - Step by Step
   Although the outside of the program appears simple and straight forward, under the hood this program is a very complex.By writing this 
